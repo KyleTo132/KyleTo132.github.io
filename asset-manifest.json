@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/techzone/static/css/main.aa6257e1.chunk.css",
+    "main.js": "/techzone/static/js/main.bf74d1f0.chunk.js",
+    "main.js.map": "/techzone/static/js/main.bf74d1f0.chunk.js.map",
+    "runtime-main.js": "/techzone/static/js/runtime-main.cbd29c04.js",
+    "runtime-main.js.map": "/techzone/static/js/runtime-main.cbd29c04.js.map",
+    "static/js/2.995ca028.chunk.js": "/techzone/static/js/2.995ca028.chunk.js",
+    "static/js/2.995ca028.chunk.js.map": "/techzone/static/js/2.995ca028.chunk.js.map",
+    "index.html": "/techzone/index.html",
+    "static/css/main.aa6257e1.chunk.css.map": "/techzone/static/css/main.aa6257e1.chunk.css.map",
+    "static/js/2.995ca028.chunk.js.LICENSE.txt": "/techzone/static/js/2.995ca028.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/techzone/static/media/img-8.83c59a64.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbd29c04.js",
+    "static/js/2.995ca028.chunk.js",
+    "static/css/main.aa6257e1.chunk.css",
+    "static/js/main.bf74d1f0.chunk.js"
+  ]
+}
